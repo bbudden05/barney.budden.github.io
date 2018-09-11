@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: https://www.solidbackgrounds.com/images/1024x768/1024x768-powder-blue-web-solid-color-background.jpg;
+  font: 18px/1.4 $helvica;
+  color: #fedcd2;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #fedcd2;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #fedcd2;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #fedcd2;
 }
 
 p {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #df744a;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #df744a;
   }
 }
 
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #df744a;
 }
 
 // Specify the color of the selection
