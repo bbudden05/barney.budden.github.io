@@ -72,7 +72,9 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I will ask my peers about things that i definitely don’t understand once i have tried hard enough so i am not just giving up straight away but i can also get my work done as efficiently as possible.</td>
+    <td>I will ask my peers about things that i definitely don’t understand once i have tried hard enough so i am not just giving up straight away but i can also get my work done as efficiently as possible.
+List:
+You can change the colour and pixel thickness of borders, colour and font of text, the background image or colour, the profile image and weather the background is solid or not.</td>
     <td></td>
   </tr>
 </table>
